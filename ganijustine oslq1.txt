@@ -1,0 +1,151 @@
+Microsoft Windows [Version 10.0.26100.1742]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ComLab-B>cd downloads
+
+C:\Users\ComLab-B\Downloads>mkdir GANI_J_OS-LQ1
+
+C:\Users\ComLab-B\Downloads>cd gani_j_os-lq1
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>mkdir "src" "common" "installer" "cache" "user"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd src
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\src>mkdir a/b/c/d/e/f/g
+The syntax of the command is incorrect.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\src>mkdir a\b\c\d\e\f\g
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\src>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd common
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\common>mkdir h\i\j\k\l\m
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\common>cd,,
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\common
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\common>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd installer
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\installer>mkdir  installer
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\installer>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd cache
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\cache>mkdir a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\cache>mkdir 1\2\3\4\5\6\7\8\9\10
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\cache>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd user
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user>mkdir "user_jerico" "user_eliza" "user_juan"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user>cd user_jerico
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>mkdir "user_profile" "user_settings" "user_preferences"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>cd user_profile
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_profile>mkdir "jerico estabillo"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_profile>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>cd user_settings
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_settings>mkdir "OSversion" "AppVersion"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_settings>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>rmdir /s cache \1
+cache, Are you sure (Y/N)? y
+\1, Are you sure (Y/N)? y
+The system cannot find the file specified.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>rmdir /s cache\1
+cache\1, Are you sure (Y/N)? y
+The system cannot find the path specified.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>rmdir /s "cache\1"
+cache\1, Are you sure (Y/N)? Y
+The system cannot find the path specified.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>rmdir /s cache\h
+cache\h, Are you sure (Y/N)? Y
+The system cannot find the path specified.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>mkdir cache
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>mkdir "1" "10" "2" "3" "4" "5" "6" "7" "8" "9" "10"
+A subdirectory or file 10 already exists.
+Error occurred while processing: 10.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd..
+
+C:\Users\ComLab-B\Downloads>rmdir /s gani_J_os-lq1\1\2\3\4\5\6\7\8\9\10
+gani_J_os-lq1\1\2\3\4\5\6\7\8\9\10, Are you sure (Y/N)? Y
+The system cannot find the path specified.
+
+C:\Users\ComLab-B\Downloads>rmdir /s GANI_J_OS-LQ1\1
+GANI_J_OS-LQ1\1, Are you sure (Y/N)? Y
+
+C:\Users\ComLab-B\Downloads>rmdir /s GANI_J_OS-LQ1\2
+GANI_J_OS-LQ1\2, Are you sure (Y/N)? Y
+
+C:\Users\ComLab-B\Downloads>rmdir /s GANI_J_OS-LQ1\3
+GANI_J_OS-LQ1\3, Are you sure (Y/N)? Y
+
+C:\Users\ComLab-B\Downloads>CD gani_j_os-lq1
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd cache
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\cache>mkdir "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\cache>mkdir "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\cache>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>cd user
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user>cd user_jerico
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>rmdir /s user_profile\jerico estabillo
+user_profile\jerico, Are you sure (Y/N)? Y
+The system cannot find the file specified.
+estabillo, Are you sure (Y/N)? y
+The system cannot find the file specified.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>cd user_profile
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_profile>rmdir /s "jerico estabillo"
+jerico estabillo, Are you sure (Y/N)? Y
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_profile>mkdir "jerico" "estabillo"
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico\user_profile>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user\user_jerico>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1\user>cd..
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>xcopy "user\user_jerico\user_profile" "user\user_eliza\User_profile" /E/I
+0 File(s) copied
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>>xcopy "user\user_jerico\user_profile" "user\user_juan\User_profile" /E/I
+'"user\user_jerico\user_profile"' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>xcopy "user\user_jerico\user_profile" "user\user_juan\User_profile" /E/I
+0 File(s) copied
+
+C:\Users\ComLab-B\Downloads\GANI_J_OS-LQ1>
